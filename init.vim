@@ -29,12 +29,15 @@ filetype plugin indent on
 
 set hidden
 set number
+set ruler
 set relativenumber
 set mouse=a
 set inccommand=split
 set tabstop=2
 set shiftwidth=2
 set smarttab
+set clipboard=unnamed
+set title
 
 set termguicolors
 
