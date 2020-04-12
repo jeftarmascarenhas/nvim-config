@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/Users/jeftar/study/omniStack/frontend/src'
+let g:netrw_dirhist_6='/Users/jeftar/study/omniStack/frontend'
+let g:netrw_dirhist_5='/Users/jeftar/study/omniStack'
+let g:netrw_dirhist_4='/Users/jeftar/react-training/react-tdd-testing-library/src'
+let g:netrw_dirhist_3='/Users/jeftar/react-training/react-tdd-testing-library'
+let g:netrw_dirhist_2='/Users/jeftar/react-training/react-tdd-testing-library/src'
+let g:netrw_dirhist_1='/Users/jeftar/react-training/react-tdd-testing-library'
